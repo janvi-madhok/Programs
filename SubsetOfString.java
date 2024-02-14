@@ -4,7 +4,7 @@ public class SubsetOfString {
         
         // ABC - A B C AB BC ABC
 
-        String str = "FUNNY";
+        String str = "ABC";
         int len = str.length();
         int temp=0;
         int substringLen = (len*(len+1))/2;
